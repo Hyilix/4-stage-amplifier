@@ -7,6 +7,12 @@ Ursesc Sebastian - 325 CA , ACS 2025-2026
 
 # Documentatie
 
+The schematic:
+![Schematic](Schematic.png)
+
+The Phyisical Circuit:
+![Phyisical](Physical_Circuit.jpeg)
+
 ## Functionalitate
 
 Demonstratie circuit video (prezent si ca fisier): https://www.youtube.com/watch?v=KiDGn5LEvNs&t=64s
@@ -97,5 +103,5 @@ Simularea in curent continuu este realizata prin a elimina generatorul de semnal
 
 ### Boxa (R8)
 
-
+![DC-output](DC_output_voltage.png)
 
