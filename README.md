@@ -3,6 +3,8 @@ Proiect DEEA
 
 Ursesc Sebastian - 325 CA , ACS 2025-2026
 
+Github repo: https://github.com/Hyilix/4-stage-amplifier
+
 **Disclaimer:** Circuitul trimis pe teams folosea alti tranzistori. Au fost inlocuiti din cauza ca nu am gasit, dar performanta este practic identica.
 
 # Documentatie
@@ -140,4 +142,5 @@ Simularea in curent continuu este realizata prin a elimina generatorul de semnal
 ### 1.7 Vpp 5600 Hz
 
 ![val4](val4.png)
+
 
