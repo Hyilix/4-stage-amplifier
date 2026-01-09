@@ -28,6 +28,8 @@ Fluxul semnalului:
   - Etajele driver (Q2, Q3) amplifica semnalul pentru a comanda tranzistorii de putere finali
   - Etajul de ieșire (Q1) livreaza puterea către difuzor prin condensatorul C1 (100µC)
 
+Circuitul amplifica semnale mici (< ~1 Vpp). La semnale mai mari, apar distorsiuni de clipare (caracteristic amplificatoarelor push-pull).
+
 ## Rolul componentelor din circuit
 
 Circuitul este alimentat de o sursa de 9V DC.
@@ -104,4 +106,38 @@ Simularea in curent continuu este realizata prin a elimina generatorul de semnal
 ### Boxa (R8)
 
 ![DC-output](DC_output_voltage.png)
+
+### Q1
+
+![DC-q1](Q1_DC.png)
+
+### Q2
+
+![DC-q2](Q2_DC.png)
+
+### Q3
+
+![DC-q3](Q3_DC.png)
+
+### Q4
+
+![DC-q4](Q4_DC.png)
+
+## Valori de semnal
+
+### 0.05 Vpp 1000 Hz
+
+![val1](val1.png)
+
+### 0.2 Vpp 13000 Hz
+
+![val2](val2.png)
+
+### 0.9 Vpp 8500 Hz
+
+![val3](val3.png)
+
+### 1.7 Vpp 5600 Hz
+
+![val4](val4.png)
 
